@@ -1,70 +1,62 @@
 # Abhishek Singh
 
-### Data Engineer | PySpark | Databricks | Spark | Delta Lake | SQL
+**Data Engineer | PySpark | Databricks | Apache Spark | SQL**
 
-I build scalable data platforms using PySpark, Databricks, Spark, Delta Lake and SQL, with a focus on streaming, lakehouse architecture, incremental processing, data quality and AI-ready data infrastructure.
+I build production-oriented data platforms with a focus on **distributed processing, streaming, lakehouse architecture, incremental computation, data quality, and AI-ready data infrastructure**.
 
-## Featured Projects
+## Featured Work
 
-### ⚡ Energy Data Platform on Databricks
+### [Energy Data Platform on Databricks](https://github.com/abhi9265/energy-data-platform-databricks)
 
-Production-oriented lakehouse platform demonstrating:
+A Databricks lakehouse platform built around production data-engineering patterns:
 
-- Azure Databricks
-- PySpark & Spark SQL
-- Delta Lake
 - Bronze / Silver / Gold architecture
-- Incremental processing
-- SCD Type 2
-- Data-quality gates
-- CI/CD
+- PySpark and Spark SQL
+- Delta Lake and incremental processing
+- SCD Type 2 and MERGE-based data modeling
+- Data-quality gates and pipeline reliability
 - Unity Catalog conventions
-- Pipeline auditability
-- BI-ready dimensional modelling
+- CI/CD and automated testing
+- BI-ready analytical models
 
-→ https://github.com/abhi9265/energy-data-platform-databricks
+### [Real-Time Customer Data Platform](https://github.com/abhi9265/real-time-customer-data-platform)
 
-### 🚀 Real-Time Customer Data Platform
+An event-driven platform demonstrating real-time data engineering patterns:
 
-Event-driven data platform demonstrating:
+- Kafka and Spark Structured Streaming
+- Event-time processing, watermarks and checkpoints
+- Deduplication and quarantine handling
+- Silver conformance and incremental state
+- Customer 360 and sessionization
+- CDC / SCD Type 2
+- Gold product analytics, revenue and conversion funnels
+- Foundations for ML feature and AI workloads
 
-- Apache Kafka
-- Spark Structured Streaming
-- Bronze / Silver / Gold
-- Event-time processing
-- Watermarking
-- Deduplication
-- CDC & SCD Type 2
-- Customer 360
-- Real-time product analytics
-- AI/ML-ready data foundations
+## Engineering Focus
 
-→ https://github.com/abhi9265/real-time-customer-data-platform
-
-## Core Interests
-
-**Data Engineering** · **Distributed Systems** · **Streaming** · **Lakehouse Architecture** · **Databricks** · **Spark** · **Data Quality** · **Data Platforms** · **AI/ML Infrastructure**
+**Data Platforms** · **Distributed Systems** · **Streaming** · **Lakehouse** · **Data Quality** · **CDC / SCD2** · **Incremental Processing** · **Analytics Engineering** · **AI/ML Data Infrastructure**
 
 ## Technical Stack
 
-**Languages:** Python, SQL  
-**Data Engineering:** PySpark, Apache Spark, Kafka, Delta Lake  
-**Cloud / Platform:** Azure Databricks, Unity Catalog  
-**Engineering:** Git, GitHub Actions, CI/CD, Testing, Data Quality  
-**Analytics:** Power BI, Dimensional Modelling  
-**AI:** Feature Engineering, ML-ready Data Pipelines, AI Data Infrastructure## Hi there 👋
+| Area | Technologies |
+|---|---|
+| Languages | Python, SQL |
+| Processing | Apache Spark, PySpark, Spark SQL |
+| Streaming | Apache Kafka, Structured Streaming |
+| Lakehouse | Databricks, Delta Lake |
+| Cloud / Governance | Azure, Unity Catalog |
+| Engineering | Git, GitHub Actions, CI/CD, Pytest |
+| Analytics | Power BI, dimensional modeling |
 
-<!--
-**abhi9265/abhi9265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## How I Approach Data Engineering
 
-Here are some ideas to get you started:
+- **Design for failure:** retries, checkpoints, quarantine paths and replayability
+- **Prefer incremental processing:** avoid unnecessary full-history recomputation
+- **Make data contracts explicit:** schema, quality rules and ownership matter
+- **Preserve history when required:** CDC and SCD Type 2 for changing dimensions
+- **Build for downstream consumers:** trusted Gold models and stable metric definitions
+- **Keep AI downstream of good data:** reliable customer and behavioral data comes before ML/AI features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Direction
+
+Deepening expertise in **Databricks, distributed systems, real-time data platforms, data observability, performance engineering, and AI/ML data infrastructure**.
