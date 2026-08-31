@@ -2,9 +2,22 @@
 
 **Data Engineer | PySpark | Databricks | Apache Spark | SQL**
 
-I build production-oriented data platforms with a focus on **distributed processing, streaming, lakehouse architecture, incremental computation, data quality, and AI-ready data infrastructure**.
+I build production-oriented data platforms with a focus on **distributed processing, streaming, lakehouse architecture, incremental computation, data quality, reliable integration, and AI-ready data infrastructure**.
 
 ## Featured Work
+
+### [Salesforce → Databricks Deal Automation](https://github.com/abhi9265/Salesforce-DBX-deal-automation)
+
+A workflow-automation MVP focused on reliable enterprise data integration:
+
+- Incremental Salesforce-shaped opportunity processing
+- Canonical domain model and deterministic validation
+- Human approval state machine
+- Business-state idempotency and replay protection
+- Explicit downstream failure vs. unknown outcomes
+- Databricks-facing adapter boundary
+- Durable request state and append-only audit history
+- Streamlit local workflow and automated tests
 
 ### [Energy Data Platform on Databricks](https://github.com/abhi9265/energy-data-platform-databricks)
 
@@ -12,9 +25,9 @@ A Databricks lakehouse platform built around production data-engineering pattern
 
 - Bronze / Silver / Gold architecture
 - PySpark and Spark SQL
-- Delta Lake and incremental processing
+- Delta Lake and incremental processing patterns
 - SCD Type 2 and MERGE-based data modeling
-- Data-quality gates and pipeline reliability
+- Data-quality gates and quarantine handling
 - Unity Catalog conventions
 - CI/CD and automated testing
 - BI-ready analytical models
@@ -34,7 +47,7 @@ An event-driven platform demonstrating real-time data engineering patterns:
 
 ## Engineering Focus
 
-**Data Platforms** · **Distributed Systems** · **Streaming** · **Lakehouse** · **Data Quality** · **CDC / SCD2** · **Incremental Processing** · **Analytics Engineering** · **AI/ML Data Infrastructure**
+**Data Platforms** · **Distributed Systems** · **Streaming** · **Lakehouse** · **Data Quality** · **CDC / SCD2** · **Incremental Processing** · **Reliable Integration** · **Analytics Engineering** · **AI/ML Data Infrastructure**
 
 ## Technical Stack
 
@@ -54,8 +67,13 @@ An event-driven platform demonstrating real-time data engineering patterns:
 - **Prefer incremental processing:** avoid unnecessary full-history recomputation
 - **Make data contracts explicit:** schema, quality rules and ownership matter
 - **Preserve history when required:** CDC and SCD Type 2 for changing dimensions
+- **Separate business rules from integrations:** domain logic should remain testable and independent of external systems
 - **Build for downstream consumers:** trusted Gold models and stable metric definitions
 - **Keep AI downstream of good data:** reliable customer and behavioral data comes before ML/AI features
+
+## Portfolio Engineering Standard
+
+All three featured repositories use automated GitHub Actions validation and are intentionally explicit about the difference between **implemented local capabilities** and **production infrastructure that requires a real environment or external contract**.
 
 ## Current Direction
 
