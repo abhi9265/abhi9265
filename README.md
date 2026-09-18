@@ -11,6 +11,18 @@
 <img src="https://komarev.com/ghpvc/?username=abhi9265&label=Profile%20Views&color=06B6D4&style=flat" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/abhi9265?label=Followers&style=flat&color=06B6D4" alt="Followers" />
 
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/abhishek-singh-b94879244">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:singhabhi5348@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/abhi9265">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
 </div>
 
 <br/>
@@ -134,24 +146,6 @@ An enterprise integration workflow focused on reliable deal-registration automat
 My portfolio projects emphasize **reproducibility, automated testing, clear architecture, and honest execution evidence**.
 
 Where a project uses local fixtures, mocks, or simulated integrations, the repository explicitly distinguishes those from production infrastructure requiring real credentials, managed services, or external contracts.
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/abhi9265">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/abhishek-singh-b94879244">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:singhabhi5348@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
 
 <br/>
 
