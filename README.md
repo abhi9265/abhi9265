@@ -50,6 +50,10 @@ My portfolio focuses on turning real-world engineering requirements into **testa
 
 <br/>
 
+## 🌐 Portfolio
+
+🔗 **[View my portfolio](https://abhi9265.github.io/abhisheksingh.github.io/)**
+
 ## 🚀 Featured Projects
 
 ### ⚡ Energy Data Platform on Databricks
