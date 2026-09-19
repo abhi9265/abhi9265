@@ -19,6 +19,9 @@
 <a href="mailto:singhabhi5348@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<a href="https://abhi9265.github.io/abhisheksingh.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 <a href="https://github.com/abhi9265">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
